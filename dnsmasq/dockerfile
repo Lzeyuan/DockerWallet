@@ -1,0 +1,13 @@
+FROM debian:stable-slim
+
+RUN apt-get update && apt-get install -y tzdata
+RUN ln -fs /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+
+RUN apt-get install -y dnsmasq
+RUN apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# 暴露 DNS 端口
+EXPOSE 53
+
+# 以非守护进程模式运行
+CMD ["dnsmasq", "-d"]

@@ -1,0 +1,117 @@
+Feb 10 09:34:10 dnsmasq[1]: started, version 2.90 cachesize 1000
+Feb 10 09:34:10 dnsmasq[1]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Feb 10 09:34:10 dnsmasq[1]: using nameserver 223.5.5.5#53
+Feb 10 09:34:10 dnsmasq[1]: using nameserver 223.6.6.6#53
+Feb 10 09:34:10 dnsmasq[1]: using nameserver 192.168.2.1#53
+Feb 10 09:34:10 dnsmasq[1]: cleared cache
+Feb 10 09:34:20 dnsmasq[1]: query[A] www.google.com from 127.0.0.1
+Feb 10 09:34:20 dnsmasq[1]: forwarded www.google.com to 223.5.5.5
+Feb 10 09:34:20 dnsmasq[1]: reply www.google.com is 199.16.158.182
+Feb 10 09:34:21 dnsmasq[1]: query[A] www.baidu.com from 127.0.0.1
+Feb 10 09:34:21 dnsmasq[1]: forwarded www.baidu.com to 223.5.5.5
+Feb 10 09:34:21 dnsmasq[1]: reply www.baidu.com is <CNAME>
+Feb 10 09:34:21 dnsmasq[1]: reply www.a.shifen.com is 182.61.200.7
+Feb 10 09:34:21 dnsmasq[1]: reply www.a.shifen.com is 182.61.200.6
+Feb 10 09:34:22 dnsmasq[1]: query[A] www.google.com from 127.0.0.1
+Feb 10 09:34:22 dnsmasq[1]: cached www.google.com is 199.16.158.182
+Feb 10 09:34:23 dnsmasq[1]: query[A] www.baidu.com from 127.0.0.1
+Feb 10 09:34:23 dnsmasq[1]: cached www.baidu.com is <CNAME>
+Feb 10 09:34:23 dnsmasq[1]: cached www.a.shifen.com is 182.61.200.7
+Feb 10 09:34:23 dnsmasq[1]: cached www.a.shifen.com is 182.61.200.6
+Feb 10 09:34:24 dnsmasq[1]: query[A] www.google.com from 127.0.0.1
+Feb 10 09:34:24 dnsmasq[1]: cached www.google.com is 199.16.158.182
+Feb 10 09:34:25 dnsmasq[1]: query[A] www.baidu.com from 127.0.0.1
+Feb 10 09:34:25 dnsmasq[1]: cached www.baidu.com is <CNAME>
+Feb 10 09:34:25 dnsmasq[1]: cached www.a.shifen.com is 182.61.200.6
+Feb 10 09:34:25 dnsmasq[1]: cached www.a.shifen.com is 182.61.200.7
+Feb 10 09:45:29 dnsmasq[1]: exiting on receipt of SIGTERM
+Feb 10 09:45:30 dnsmasq[1]: started, version 2.90 cachesize 1000
+Feb 10 09:45:30 dnsmasq[1]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Feb 10 09:45:30 dnsmasq[1]: using nameserver 223.5.5.5#53
+Feb 10 09:45:30 dnsmasq[1]: using nameserver 223.6.6.6#53
+Feb 10 09:45:30 dnsmasq[1]: using nameserver 192.168.2.1#53
+Feb 10 09:45:30 dnsmasq[1]: cleared cache
+Feb 10 09:45:39 dnsmasq[1]: exiting on receipt of SIGTERM
+Feb 10 09:50:24 dnsmasq[1]: started, version 2.90 cachesize 1000
+Feb 10 09:50:24 dnsmasq[1]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Feb 10 09:50:24 dnsmasq[1]: using nameserver 223.5.5.5#53
+Feb 10 09:50:24 dnsmasq[1]: using nameserver 223.6.6.6#53
+Feb 10 09:50:24 dnsmasq[1]: using nameserver 192.168.2.1#53
+Feb 10 09:50:24 dnsmasq[1]: cleared cache
+Feb 10 09:51:11 dnsmasq[1]: exiting on receipt of SIGTERM
+Feb 10 09:52:53 dnsmasq[1]: started, version 2.90 cachesize 1000
+Feb 10 09:52:53 dnsmasq[1]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Feb 10 09:52:53 dnsmasq[1]: using nameserver 223.5.5.5#53
+Feb 10 09:52:53 dnsmasq[1]: using nameserver 223.6.6.6#53
+Feb 10 09:52:53 dnsmasq[1]: using nameserver 192.168.2.1#53
+Feb 10 09:52:53 dnsmasq[1]: cleared cache
+Feb 10 09:53:04 dnsmasq[1]: exiting on receipt of SIGTERM
+Feb 10 09:53:47 dnsmasq[1]: started, version 2.90 cachesize 1000
+Feb 10 09:53:47 dnsmasq[1]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Feb 10 09:53:47 dnsmasq[1]: using nameserver 223.5.5.5#53
+Feb 10 09:53:47 dnsmasq[1]: using nameserver 223.6.6.6#53
+Feb 10 09:53:47 dnsmasq[1]: using nameserver 192.168.2.1#53
+Feb 10 09:53:47 dnsmasq[1]: cleared cache
+Feb 10 09:58:30 dnsmasq[1]: exiting on receipt of SIGTERM
+Feb 10 09:58:35 dnsmasq[1]: started, version 2.90 cachesize 1000
+Feb 10 09:58:35 dnsmasq[1]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Feb 10 09:58:35 dnsmasq[1]: using nameserver 223.5.5.5#53
+Feb 10 09:58:35 dnsmasq[1]: using nameserver 223.6.6.6#53
+Feb 10 09:58:35 dnsmasq[1]: using nameserver 192.168.2.1#53
+Feb 10 09:58:35 dnsmasq[1]: cleared cache
+Feb 10 09:58:37 dnsmasq[1]: exiting on receipt of SIGTERM
+Feb 10 09:58:39 dnsmasq[1]: started, version 2.90 cachesize 1000
+Feb 10 09:58:39 dnsmasq[1]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Feb 10 09:58:39 dnsmasq[1]: using nameserver 223.5.5.5#53
+Feb 10 09:58:39 dnsmasq[1]: using nameserver 223.6.6.6#53
+Feb 10 09:58:39 dnsmasq[1]: using nameserver 192.168.2.1#53
+Feb 10 09:58:39 dnsmasq[1]: cleared cache
+Feb 10 09:58:50 dnsmasq[1]: query[A] www.baidu.com from 127.0.0.1
+Feb 10 09:58:50 dnsmasq[1]: forwarded www.baidu.com to 223.5.5.5
+Feb 10 09:58:50 dnsmasq[1]: reply www.baidu.com is <CNAME>
+Feb 10 09:58:50 dnsmasq[1]: reply www.a.shifen.com is 182.61.200.6
+Feb 10 09:58:50 dnsmasq[1]: reply www.a.shifen.com is 182.61.200.7
+Feb 10 10:02:43 dnsmasq[1]: exiting on receipt of SIGTERM
+Feb 10 18:07:52 dnsmasq[1]: started, version 2.90 cachesize 1000
+Feb 10 18:07:52 dnsmasq[1]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Feb 10 18:07:52 dnsmasq[1]: using nameserver 223.5.5.5#53
+Feb 10 18:07:52 dnsmasq[1]: using nameserver 223.6.6.6#53
+Feb 10 18:07:52 dnsmasq[1]: using nameserver 192.168.2.1#53
+Feb 10 18:07:52 dnsmasq[1]: cleared cache
+Feb 10 18:08:42 dnsmasq[1]: exiting on receipt of SIGTERM
+Feb 10 18:08:45 dnsmasq[1]: started, version 2.90 cachesize 1000
+Feb 10 18:08:45 dnsmasq[1]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Feb 10 18:08:45 dnsmasq[1]: using nameserver 223.5.5.5#53
+Feb 10 18:08:45 dnsmasq[1]: using nameserver 223.6.6.6#53
+Feb 10 18:08:45 dnsmasq[1]: using nameserver 192.168.2.1#53
+Feb 10 18:08:45 dnsmasq[1]: cleared cache
+Feb 10 18:08:53 dnsmasq[1]: query[A] www.baidu.com.local from 127.0.0.1
+Feb 10 18:08:53 dnsmasq[1]: config www.baidu.com.local is 192.168.2.20
+Feb 10 18:08:55 dnsmasq[1]: query[A] www.baidu.com from 127.0.0.1
+Feb 10 18:08:55 dnsmasq[1]: forwarded www.baidu.com to 223.5.5.5
+Feb 10 18:08:55 dnsmasq[1]: reply www.baidu.com is <CNAME>
+Feb 10 18:08:55 dnsmasq[1]: reply www.a.shifen.com is 182.61.200.6
+Feb 10 18:08:55 dnsmasq[1]: reply www.a.shifen.com is 182.61.200.7
+Feb 10 18:10:12 dnsmasq[1]: query[A] qweqe.local from 127.0.0.1
+Feb 10 18:10:12 dnsmasq[1]: config qweqe.local is 192.168.2.20
+Feb 10 18:10:12 dnsmasq[1]: query[AAAA] qweqe.local from 127.0.0.1
+Feb 10 18:10:12 dnsmasq[1]: forwarded qweqe.local to 223.5.5.5
+Feb 10 18:10:12 dnsmasq[1]: reply qweqe.local is NODATA-IPv6
+Feb 10 18:10:25 dnsmasq[1]: exiting on receipt of SIGTERM
+Feb 10 18:10:30 dnsmasq[1]: started, version 2.90 cachesize 1000
+Feb 10 18:10:30 dnsmasq[1]: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+Feb 10 18:10:30 dnsmasq[1]: using nameserver 223.5.5.5#53
+Feb 10 18:10:30 dnsmasq[1]: using nameserver 223.6.6.6#53
+Feb 10 18:10:30 dnsmasq[1]: using nameserver 192.168.2.1#53
+Feb 10 18:10:30 dnsmasq[1]: cleared cache
+Feb 10 18:10:32 dnsmasq[1]: query[A] qweqe.local from 192.168.2.20
+Feb 10 18:10:32 dnsmasq[1]: config qweqe.local is 192.168.2.20
+Feb 10 18:10:32 dnsmasq[1]: query[AAAA] qweqe.local from 192.168.2.20
+Feb 10 18:10:32 dnsmasq[1]: forwarded qweqe.local to 223.5.5.5
+Feb 10 18:10:32 dnsmasq[1]: reply qweqe.local is NODATA-IPv6
+Feb 10 18:10:48 dnsmasq[1]: query[PTR] 20.2.168.192.in-addr.arpa from 192.168.2.10
+Feb 10 18:10:48 dnsmasq[1]: config 20.2.168.192.in-addr.arpa is <PTR>
+Feb 10 18:10:48 dnsmasq[1]: query[A] qweqe.local from 192.168.2.10
+Feb 10 18:10:48 dnsmasq[1]: config qweqe.local is 192.168.2.20
+Feb 10 18:10:48 dnsmasq[1]: query[AAAA] qweqe.local from 192.168.2.10
+Feb 10 18:10:48 dnsmasq[1]: cached qweqe.local is NODATA-IPv6

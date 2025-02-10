@@ -1,0 +1,13 @@
+services:
+  dnsmasq:
+    build:
+      context: .
+    container_name: dnsmasq-test
+    network_mode: host
+    restart: unless-stopped
+    volumes:
+      - ./config/dnsmasq.conf:/etc/dnsmasq.conf
+      - ./config/logrotate.d/dnsmasq:/etc/logrotate.d/dnsmasq
+      - ./persistence/dnsmasq.log:/var/log/dnsmasq.log
+    cap_add:
+      - NET_ADMIN
